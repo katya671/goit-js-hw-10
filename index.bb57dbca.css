@@ -1,0 +1,2 @@
+body{font-family:Arial,sans-serif}.container{flex-direction:column;display:flex}.breed-select{padding:5px;font-size:16px}.loader,.error{margin-top:20px;font-size:18px;font-weight:700}.error{color:red}.cat-info{margin-top:16px;display:flex}.cat-image{width:400px;height:auto;margin-right:16px}.breed-name{font-size:28px;font-weight:700}.description,.temperament{margin-top:10px}.temperament:before{content:"Temperament: ";font-weight:700}.hidden{display:none}.visible{display:block}
+/*# sourceMappingURL=index.bb57dbca.css.map */
