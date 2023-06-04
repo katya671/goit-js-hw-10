@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.breed-select {
+    font-size: 16px;
+    padding: 5px;
+}
+
+.loader,
+.error {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.error {
+    color: red;
+}
+
+.cat-info {
+    display: flex;
+    margin-top: 16px;
+}
+
+.cat-image {
+    width: 400px;
+    height: auto;
+    margin-right: 16px;
+}
+
+.breed-name {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.description,
+.temperament {
+    margin-top: 10px;
+}
+
+.temperament:before {
+    content: "Temperament: ";
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
