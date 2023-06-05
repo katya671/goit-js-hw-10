@@ -37,7 +37,6 @@ function hideCatInfo() {
 
 function showError() {
   error.classList.add('visible');
-  breedSelect.style.display = 'none';
 }
 
 function hideError() {
